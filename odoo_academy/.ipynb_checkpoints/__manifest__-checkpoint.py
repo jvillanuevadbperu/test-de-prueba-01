@@ -5,11 +5,11 @@
     
     'summary': """Academy app to manage Training""",
     
-    'description'; """
-    Academy Module to manage Training:
-    - Courses
-    - Sessions
-    - Attendees
+    'description': """
+        Academy Module to manage Training:
+        - Courses
+        - Sessions
+        - Attendees
     """,
     
     'author': 'Jhon Gesell',
