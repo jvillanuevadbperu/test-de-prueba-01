@@ -6,15 +6,15 @@
     'summary': """Academy app to manage Training""",
     
     'description': """
-    Academy Module to manage Training:
-    - Courses
-    - Sessions
-    - Attendees
+        Academy Module to manage Training:
+        - Courses
+        - Sessions
+        - Attendees
     """,
     
-    'author': 'Jhon Gesell',
+    'author': 'Odoo',
     
-    'website': 'https://www.dbperu.com',
+    'website': 'https://www.odoo.com',
     
     'category': 'Training',
     'version': '0.1',
@@ -23,9 +23,11 @@
     
     'data': [
         
+        
     ],
     
     'demo': [
+        
         
     ],
 }
