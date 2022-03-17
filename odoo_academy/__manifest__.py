@@ -22,12 +22,10 @@
     'depends': ['base'],
     
     'data': [
-     
         
     ],
     
     'demo': [
-        
         
     ],
 }
