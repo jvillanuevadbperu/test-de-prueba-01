@@ -6,10 +6,10 @@
     'summary': """Academy app to manage Training""",
     
     'description': """
-        Academy Module to manage Training:
-        - Courses
-        - Sessions
-        - Attendees
+    Academy Module to manage Training:
+    - Courses
+    - Sessions
+    - Attendees
     """,
     
     'author': 'Jhon Gesell',
